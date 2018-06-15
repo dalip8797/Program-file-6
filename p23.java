@@ -16,6 +16,22 @@ public class derive {
     {
         System.out.println(" i am in cat function");
     }
+public static void main(String [] args)
+Derive derive=new newinterface;
+derive.dalip();
+derive.cat();
+
+
+
+
+
+
+
+
+
+
+
+
     
      
             
